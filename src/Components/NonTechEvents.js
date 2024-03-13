@@ -280,7 +280,7 @@ const TechEvents = () => {
                       onClick={() =>
                         toggle(
                           "Act It Out",
-                          "Three to Five Members per team.\n A Scenario or topic will be given on the spot and the participating need to act accordingly.\n Judging criteria will be based on the dialogue delivery, best concepts, humor sense and equal participation of each and every team member. c\n Use of abusive words will lead to the elimination of the team.",
+                          "Solo participation.\n A Scenario or topic will be given on the spot and the participating need to act accordingly.\n Judging criteria will be based on the dialogue delivery, best concepts and humour sense. \n Use of abusive words will lead to the elimination of the team.",
                           "C-212"
                         )
                       }
