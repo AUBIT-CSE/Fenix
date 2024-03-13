@@ -280,7 +280,7 @@ const TechEvents = () => {
                       onClick={() =>
                         toggle(
                           "Act It Out",
-                          "Solo participation.\n A Scenario or topic will be given on the spot and the participating need to act accordingly.\n Judges Decision will be Final \n Use of abusive words will lead to the elimination of the team.",
+                          "Solo participation.\n A Scenario or topic will be given on the spot and the participant need to act accordingly.\n Judges Decision will be Final \n Use of abusive words will lead to the elimination of the team.",
                           "C-212"
                         )
                       }
